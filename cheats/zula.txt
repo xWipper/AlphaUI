@@ -7,7 +7,7 @@ Aimbot"
 },
  "title": "Zula Free Hack",
  "status": "beta",
- "lastupdate": "Last Update: 25.06.2021"
+ "lastupdate": "Last Update: 25.06.2021",
  "gameground": "https://raw.githubusercontent.com/realuix/RealUI/master/docs/gamegif/zula.png"
  
 }
