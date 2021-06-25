@@ -1,0 +1,8 @@
+{
+ "premium": 1,
+ "function": {
+ "listfunc": "ESP Box
+ESP Line
+Aimbot"
+}
+}
