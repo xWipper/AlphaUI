@@ -9,6 +9,6 @@ Aimbot"
  "status": "beta",
  "lastupdate": "123423",
  "gameground": "https://raw.githubusercontent.com/realuix/RealUI/master/docs/gamegif/zula.png",
- "infomessage": "Beta aşamasında",
+ "infomessage": "Beta asamasında",
  "websitelink": "https://legendarycheats.net/threads/zula-legendary-free-beta-hack.75"
 }
