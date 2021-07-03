@@ -1,20 +1,32 @@
 {
 "zula": {
-"zulaDataL": "https://raw.githubusercontent.com/Utku1114/AlphaUI/main/cheats/zula.txt"
+"zulaDataL": "https://raw.githubusercontent.com/Utku1114/AlphaUI/main/cheats/zula.txt",
+"zulaDataN": "Zula Free Hack",
+"ZulaDataS": "beta"
 },
 "craftrise": {
-"craftriseDataL": "https://github.com/Utku1114/AlphaUI/raw/main/cheats/craftrise.lcpg"
+"craftriseDataL": "https://github.com/Utku1114/AlphaUI/raw/main/cheats/craftrise.lcpg",
+"craftriseDataM": "Craftrise",
+"craftriseDataS": "undetected"
 },
 "youtubebot": {
-"youtubeBotL": "https://raw.githubusercontent.com/Utku1114/AlphaUI/main/cheats/youtubebot.lcpg"
+"youtubeBotL": "https://raw.githubusercontent.com/Utku1114/AlphaUI/main/cheats/youtubebot.lcpg",
+"youtubeBotN": "Youtube Canlı Yayın Botu",
+"youtubeBotS": "undetected"
 },
 "sonoyuncu": {
-"sonoyuncuL": "https://raw.githubusercontent.com/Utku1114/AlphaUI/main/cheats/sonoyuncu.lcpg"
+"sonoyuncuL": "https://raw.githubusercontent.com/Utku1114/AlphaUI/main/cheats/sonoyuncu.lcpg",
+"sonoyuncuN": "SonOyuncu Free Hack",
+"sonoyuncuS": "undetected"
 },
 "growtopia": {
-"growtopiaL": "https://raw.githubusercontent.com/Utku1114/AlphaUI/main/cheats/growtopia.lcpg"
+"growtopiaL": "https://raw.githubusercontent.com/Utku1114/AlphaUI/main/cheats/growtopia.lcpg",
+"growtopiaN": "Growtopia Free Hack",
+"growtopiaS": "undetected"
 },
 "csgo": {
-"csgoL": "https://raw.githubusercontent.com/Utku1114/AlphaUI/main/cheats/csgo.lcpg"
+"csgoL": "https://raw.githubusercontent.com/Utku1114/AlphaUI/main/cheats/csgo.lcpg",
+"csgoN": "CS:GO Free Hack",
+"csgoS": "undetected"
 }
 }
