@@ -1,14 +1,1 @@
-{
- "premium": 1,
- "function": {
- "listfunc": "ESP Box
-ESP Line
-Aimbot"
-},
- "title": "Zula Free Hack",
- "status": "beta",
- "lastupdate": "123423",
- "gameground": "https://raw.githubusercontent.com/realuix/RealUI/master/docs/gamegif/zula.png",
- "infomessage": "Beta asamasinda",
- "websitelink": "https://legendarycheats.net/threads/zula-legendary-free-beta-hack.75"
-}
+ew0KICJwcmVtaXVtIjogMSwNCiAiZnVuY3Rpb24iOiB7DQogImxpc3RmdW5jIjogIkVTUCBCb3gNCkVTUCBMaW5lDQpBaW1ib3QiDQp9LA0KICJ0aXRsZSI6ICJadWxhIEZyZWUgSGFjayIsDQogInN0YXR1cyI6ICJiZXRhIiwNCiAibGFzdHVwZGF0ZSI6ICIxMjM0MjMiLA0KICJnYW1lZ3JvdW5kIjogImh0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS9yZWFsdWl4L1JlYWxVSS9tYXN0ZXIvZG9jcy9nYW1lZ2lmL3p1bGEucG5nIiwNCiAiaW5mb21lc3NhZ2UiOiAiQmV0YSBhc2FtYXNpbmRhIiwNCiAid2Vic2l0ZWxpbmsiOiAiaHR0cHM6Ly9sZWdlbmRhcnljaGVhdHMubmV0L3RocmVhZHMvenVsYS1sZWdlbmRhcnktZnJlZS1iZXRhLWhhY2suNzUiDQp9
